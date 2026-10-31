@@ -1,0 +1,5 @@
+# Script di crittografia e salt interni - MAI pushare
+bin2header_aes.ps1
+*bin2header_aes*
+*.obj
+*.pdb
